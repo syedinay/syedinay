@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedinay
-- 👀 I’m interested in using tech to solve modern day problems
-- 🌱 I’m currently learning HTML, CSS, React, NodeJS and Python
+- 👀 I’m love using technology to solve modern day, real life problems
+- 🌱 I work on Java SWT, sometimes Python and SQL. Currently learning JS.
 - 📫 How to reach me syedinayath1999@gmail.com
 
 <!---
